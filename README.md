@@ -9,6 +9,6 @@ My interests are:
 - :dancers: Salsa
 - 📚 Reading
 
-[My favorite song](https://www.youtube.com/watch?v=10EX-_h4pYc)
+
 
 
