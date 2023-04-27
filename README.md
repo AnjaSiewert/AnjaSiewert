@@ -15,12 +15,16 @@
   </a>
 </div>
 
-My interests are:                                                                                                                                                                            
-- 🗺️ Travelling
-- 🕵️‍♀️ True Crime 
-- :skateboard: Longboard
-- :dancers: Salsa
-- 📚 Reading   
+
+ 
+My interests are:  </br>                                                                                                                                                                          
+- 🗺️ Travelling </br>
+- 🕵️‍♀️ True Crime  </br> 
+- :skateboard: Longboard </br> 
+- :dancers: Salsa </br> 
+- 📚 Reading    </br> 
+</br> 
+
 
 ![Otter](https://media.giphy.com/media/1CrejqXxVZs9q/giphy.gif)
             
