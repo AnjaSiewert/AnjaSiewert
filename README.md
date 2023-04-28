@@ -24,6 +24,6 @@
 - 📚 Reading    </br> 
 </div>
 
-<div align="right">
+<div align="right" style="margin-right: 1px;">
   <img src="https://media.giphy.com/media/1CrejqXxVZs9q/giphy.gif" alt="Otter">
 </div>
