@@ -11,21 +11,19 @@
   <a href="https://github-readme-tech-stack.vercel.app/api/cards?align=right&lineCount=3&line1=HTML5,HTML5,f56e14;CSS3,CSS3,4877e5;JavaScript,JavaScript,e9ed02;&line2=React,React,0aaccd;Next.js,Next.js,5a007a;&line3=Git,Git,d07335;GItHub,GitHub,4a4d4f;">
     <img align="right" src="https://github-readme-tech-stack.vercel.app/api/cards?align=right&lineCount=3&line1=HTML5,HTML5,f56e14;CSS3,CSS3,4877e5;JavaScript,JavaScript,e9ed02;&line2=React,React,0aaccd;Next.js,Next.js,5a007a;&line3=Git,Git,d07335;GItHub,GitHub,4a4d4f;" alt="My Tech Stack">
   </a>
+  
 </div>
 
-
- 
-My interests are:  </br>                                                                                                                                                                          
+<div align="left">
+  
+## My interests  </br>                                                                                                                                                                 
 - 🗺️ Travelling </br>
 - 🕵️‍♀️ True Crime  </br> 
 - :skateboard: Longboard </br> 
 - :dancers: Salsa </br> 
 - 📚 Reading    </br> 
-</br> 
+</div>
 
-
-![Otter](https://media.giphy.com/media/1CrejqXxVZs9q/giphy.gif)
-            
-
-
-
+<div align="right">
+  <img src="https://media.giphy.com/media/1CrejqXxVZs9q/giphy.gif" alt="Otter">
+</div>
