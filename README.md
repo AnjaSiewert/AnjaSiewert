@@ -8,10 +8,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=anjasiewert&show_icons=true&theme=radical" alt="Anjas GitHub stats">
   </a>
-  <a href="https://github-readme-tech-stack.vercel.app/api/cards?align=right&lineCount=3&line1=HTML5,HTML5,f56e14;CSS3,CSS3,4877e5;JavaScript,JavaScript,e9ed02;&line2=React,React,0aaccd;Next.js,Next.js,5a007a;&line3=Git,Git,d07335;GItHub,GitHub,4a4d4f;">
-    <img align="right" src="https://github-readme-tech-stack.vercel.app/api/cards?align=right&lineCount=3&line1=HTML5,HTML5,f56e14;CSS3,CSS3,4877e5;JavaScript,JavaScript,e9ed02;&line2=React,React,0aaccd;Next.js,Next.js,5a007a;&line3=Git,Git,d07335;GItHub,GitHub,4a4d4f;" alt="My Tech Stack">
-  </a>
-  
 </div>
 
 <div align="left">
@@ -24,6 +20,9 @@
 - 📚 Reading    </br> 
 </div>
 
-<div align="right" style="margin-right: 1px;">
+  <a href="https://github-readme-tech-stack.vercel.app/api/cards?align=right&lineCount=3&line1=HTML5,HTML5,f56e14;CSS3,CSS3,4877e5;JavaScript,JavaScript,e9ed02;&line2=React,React,0aaccd;Next.js,Next.js,5a007a;&line3=Git,Git,d07335;GItHub,GitHub,4a4d4f;">
+    <img align="right" src="https://github-readme-tech-stack.vercel.app/api/cards?align=right&lineCount=3&line1=HTML5,HTML5,f56e14;CSS3,CSS3,4877e5;JavaScript,JavaScript,e9ed02;&line2=React,React,0aaccd;Next.js,Next.js,5a007a;&line3=Git,Git,d07335;GItHub,GitHub,4a4d4f;" alt="My Tech Stack">
+  </a>
+  
   <img src="https://media.giphy.com/media/1CrejqXxVZs9q/giphy.gif" alt="Otter">
-</div>
+
